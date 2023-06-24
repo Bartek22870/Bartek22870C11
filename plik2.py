@@ -1,2 +1,1 @@
-print{"Hello"}
-print{"zmiana"}
+print{"Hello 123"}
