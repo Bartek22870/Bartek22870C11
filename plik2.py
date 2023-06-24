@@ -1,1 +1,2 @@
-print{"Hello 123"}
+print{"Hello"}
+print{"zmiana"}
